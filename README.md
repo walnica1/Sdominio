@@ -6,11 +6,11 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/juanchorod1/Subdominio```
-
+```bash $ git clone ```
+https://github.com/walnica1/Sdominio
 ```bash $ cd Subdominio```
 
-```bash $ pip3 install -r requirements.txt```
+```bash $ pip3 install install requirements.txt```
 
 ## Ejecución
 
