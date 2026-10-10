@@ -8,7 +8,7 @@
 
 ```bash $ git clone ```
 https://github.com/walnica1/Sdominio
-```bash $ cd Subdominio```
+```bash $ cd Sdominio```
 
 ```bash $ pip3 install install requirements.txt```
 
